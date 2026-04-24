@@ -1,0 +1,542 @@
+[
+  {
+    "Name": "Compact Printer Air Advanced Digital",
+    "Brand": "Garner, Boyle and Flynn",
+    "Price": 265,
+    "Category": "Books & Stationery"
+  },
+  {
+    "Name": "Tablet",
+    "Brand": "Mueller Inc",
+    "Price": 502,
+    "Category": "Shoes & Footwear"
+  },
+  {
+    "Name": "Smart Blender Cooker",
+    "Brand": "Lawson, Keller and Winters",
+    "Price": 227,
+    "Category": "Kitchen Appliances"
+  },
+  {
+    "Name": "Advanced Router Rechargeable",
+    "Brand": "Gallagher and Sons",
+    "Price": 121,
+    "Category": "Kitchen Appliances"
+  },
+  {
+    "Name": "Radio",
+    "Brand": "Benjamin, Nelson and Hancock",
+    "Price": 426,
+    "Category": "Skincare"
+  },
+  {
+    "Name": "Webcam Stove Grill",
+    "Brand": "Morrow and Sons",
+    "Price": 159,
+    "Category": "Automotive"
+  },
+  {
+    "Name": "Eco Radio",
+    "Brand": "Edwards, Odonnell and Conley",
+    "Price": 454,
+    "Category": "Skincare"
+  },
+  {
+    "Name": "Ultra Powerbank Brush Charger Max",
+    "Brand": "Brennan, Archer and Rosales",
+    "Price": 845,
+    "Category": "Fitness Equipment"
+  },
+  {
+    "Name": "Wireless Dock",
+    "Brand": "Russo-West",
+    "Price": 257,
+    "Category": "Health & Wellness"
+  },
+  {
+    "Name": "Fast Camera Router Fan Smart",
+    "Brand": "Vazquez and Sons",
+    "Price": 221,
+    "Category": "Cleaning Supplies"
+  },
+  {
+    "Name": "Heater Radio",
+    "Brand": "Delgado-Blackwell",
+    "Price": 689,
+    "Category": "Cycling"
+  },
+  {
+    "Name": "Smart Trimmer Webcam Heater",
+    "Brand": "Contreras PLC",
+    "Price": 279,
+    "Category": "Automotive"
+  },
+  {
+    "Name": "Webcam Dock Heater",
+    "Brand": "Juarez, Powell and Travis",
+    "Price": 101,
+    "Category": "Cleaning Supplies"
+  },
+  {
+    "Name": "Automatic Watch Lite Sense",
+    "Brand": "Reid, Chase and Ballard",
+    "Price": 316,
+    "Category": "Team Sports"
+  },
+  {
+    "Name": "Eco Iron Monitor Air",
+    "Brand": "Barker-Murphy",
+    "Price": 982,
+    "Category": "Automotive"
+  },
+  {
+    "Name": "Eco Freezer Powerbank Watch",
+    "Brand": "Pruitt, Higgins and Barnett",
+    "Price": 340,
+    "Category": "Cleaning Supplies"
+  },
+  {
+    "Name": "Cooler Fan",
+    "Brand": "Bray LLC",
+    "Price": 529,
+    "Category": "Smartphones"
+  },
+  {
+    "Name": "Portable Camera Plus Air Ultra",
+    "Brand": "Wang-Valenzuela",
+    "Price": 197,
+    "Category": "Women's Clothing"
+  },
+  {
+    "Name": "Wireless Powerbank 360 Advanced Ultra",
+    "Brand": "Carney Ltd",
+    "Price": 677,
+    "Category": "Bedding & Bath"
+  },
+  {
+    "Name": "Rechargeable Lamp Speakerphone Headphones",
+    "Brand": "Gallegos, Osborne and Carpenter",
+    "Price": 664,
+    "Category": "Skincare"
+  },
+  {
+    "Name": "Mini Scooter Microphone",
+    "Brand": "Douglas, Thornton and Soto",
+    "Price": 784,
+    "Category": "Grooming Tools"
+  },
+  {
+    "Name": "Rechargeable Webcam Stove Grill",
+    "Brand": "Horn-Pope",
+    "Price": 900,
+    "Category": "Health & Wellness"
+  },
+  {
+    "Name": "Mini Iron Drone Wireless Pro",
+    "Brand": "Khan-Parrish",
+    "Price": 909,
+    "Category": "Cycling"
+  },
+  {
+    "Name": "Portable Freezer Phone Automatic Smart",
+    "Brand": "Burton PLC",
+    "Price": 350,
+    "Category": "Automotive"
+  },
+  {
+    "Name": "Wireless Webcam Stove Grill",
+    "Brand": "Henry Group",
+    "Price": 858,
+    "Category": "Clothing & Apparel"
+  },
+  {
+    "Name": "Clock Brush",
+    "Brand": "Larson-Spence",
+    "Price": 985,
+    "Category": "Furniture"
+  },
+  {
+    "Name": "Keyboard Toaster Monitor",
+    "Brand": "Bonilla-Spears",
+    "Price": 576,
+    "Category": "Kids' Clothing"
+  },
+  {
+    "Name": "Silent Printer Fan Shaver",
+    "Brand": "Love LLC",
+    "Price": 102,
+    "Category": "Sports & Outdoors"
+  },
+  {
+    "Name": "Wireless Scooter Clean Mini",
+    "Brand": "Terry-Oliver",
+    "Price": 283,
+    "Category": "Fragrances"
+  },
+  {
+    "Name": "Advanced Microphone Cooler Eco",
+    "Brand": "Morales, Weaver and Fernandez",
+    "Price": 904,
+    "Category": "Smartphones"
+  },
+  {
+    "Name": "Automatic Brush Fast Eco",
+    "Brand": "Newman Ltd",
+    "Price": 407,
+    "Category": "Kids' Clothing"
+  },
+  {
+    "Name": "Premium Bicycle Microphone",
+    "Brand": "Novak, Archer and Walton",
+    "Price": 480,
+    "Category": "Shoes & Footwear"
+  },
+  {
+    "Name": "Smart Phone Scooter Clean",
+    "Brand": "Marshall-Dougherty",
+    "Price": 635,
+    "Category": "Women's Clothing"
+  },
+  {
+    "Name": "Bicycle",
+    "Brand": "Hays-Cunningham",
+    "Price": 234,
+    "Category": "Smartphones"
+  },
+  {
+    "Name": "Ultra Dock Trimmer Automatic Edge",
+    "Brand": "Barnes-Glass",
+    "Price": 640,
+    "Category": "Kids' Clothing"
+  },
+  {
+    "Name": "Wireless Tablet Router Printer Wireless Premium Air",
+    "Brand": "Meyers-Hess",
+    "Price": 781,
+    "Category": "Sports & Outdoors"
+  },
+  {
+    "Name": "Clean Printer Advanced Premium Sense",
+    "Brand": "Williamson PLC",
+    "Price": 913,
+    "Category": "Haircare"
+  },
+  {
+    "Name": "Ultra Speakerphone Oven Go Smart X",
+    "Brand": "Zimmerman, Barr and Davis",
+    "Price": 999,
+    "Category": "Office Supplies"
+  },
+  {
+    "Name": "Rechargeable Projector Pro",
+    "Brand": "Levine, Martin and Mccann",
+    "Price": 935,
+    "Category": "Home Decor"
+  },
+  {
+    "Name": "Eco Vacuum",
+    "Brand": "Werner PLC",
+    "Price": 259,
+    "Category": "Health & Wellness"
+  },
+  {
+    "Name": "Smart Grill Tablet Fridge Go Smart Smart",
+    "Brand": "Huff, Cameron and Stephenson",
+    "Price": 488,
+    "Category": "Fitness Equipment"
+  },
+  {
+    "Name": "Digital Stove Silent Pro",
+    "Brand": "Suarez, Riddle and Sanders",
+    "Price": 161,
+    "Category": "Health & Wellness"
+  },
+  {
+    "Name": "Portable Powerbank X Air",
+    "Brand": "Hanson-Schultz",
+    "Price": 599,
+    "Category": "Camping & Hiking"
+  },
+  {
+    "Name": "Clock",
+    "Brand": "Malone, Jacobson and Hudson",
+    "Price": 731,
+    "Category": "Team Sports"
+  },
+  {
+    "Name": "Radio Treadmill",
+    "Brand": "Barron-Little",
+    "Price": 511,
+    "Category": "Office Supplies"
+  },
+  {
+    "Name": "Ultra Cooler Treadmill Touch Pro Ultra",
+    "Brand": "Bonilla-Oconnell",
+    "Price": 214,
+    "Category": "Fragrances"
+  },
+  {
+    "Name": "Mini Fridge Camera",
+    "Brand": "Decker and Sons",
+    "Price": 777,
+    "Category": "Fitness Equipment"
+  },
+  {
+    "Name": "Rechargeable Tablet Plus Portable Mini",
+    "Brand": "Mooney-Gonzales",
+    "Price": 820,
+    "Category": "Fragrances"
+  },
+  {
+    "Name": "Tablet",
+    "Brand": "Blake, Weiss and Montgomery",
+    "Price": 408,
+    "Category": "Beauty & Personal Care"
+  },
+  {
+    "Name": "Wireless Light Toaster Lite Touch Eco",
+    "Brand": "Singleton PLC",
+    "Price": 791,
+    "Category": "Bedding & Bath"
+  },
+  {
+    "Name": "Scooter",
+    "Brand": "Rivas Group",
+    "Price": 370,
+    "Category": "Cameras & Accessories"
+  },
+  {
+    "Name": "Advanced Camera Heater Webcam X Ultra Prime",
+    "Brand": "Cervantes Ltd",
+    "Price": 224,
+    "Category": "Office Supplies"
+  },
+  {
+    "Name": "Ultra Keyboard Compact Eco",
+    "Brand": "Pace-Hodges",
+    "Price": 514,
+    "Category": "Books & Stationery"
+  },
+  {
+    "Name": "Portable Scale Speaker Powerbank Clean",
+    "Brand": "Morris LLC",
+    "Price": 689,
+    "Category": "Women's Clothing"
+  },
+  {
+    "Name": "Oven Speaker Fan",
+    "Brand": "Schwartz Ltd",
+    "Price": 489,
+    "Category": "Men's Clothing"
+  },
+  {
+    "Name": "Automatic Speaker Router Lamp Prime",
+    "Brand": "Sexton, Dickerson and Blair",
+    "Price": 621,
+    "Category": "Grooming Tools"
+  },
+  {
+    "Name": "Smart Webcam Projector Lock",
+    "Brand": "Stokes Inc",
+    "Price": 440,
+    "Category": "Men's Clothing"
+  },
+  {
+    "Name": "Fast Fan",
+    "Brand": "Ali-Oliver",
+    "Price": 982,
+    "Category": "Cleaning Supplies"
+  },
+  {
+    "Name": "Automatic Cooler Edge",
+    "Brand": "Odonnell, Boyle and Oconnor",
+    "Price": 124,
+    "Category": "Beauty & Personal Care"
+  },
+  {
+    "Name": "Advanced Freezer Advanced Advanced",
+    "Brand": "Gill LLC",
+    "Price": 489,
+    "Category": "Office Supplies"
+  },
+  {
+    "Name": "Silent Trimmer Shaver Fast",
+    "Brand": "Munoz Group",
+    "Price": 130,
+    "Category": "Smartphones"
+  },
+  {
+    "Name": "Treadmill",
+    "Brand": "Frost, Christensen and Burnett",
+    "Price": 731,
+    "Category": "Women's Clothing"
+  },
+  {
+    "Name": "Mini Charger Lock Oven Sense Sense",
+    "Brand": "Burton, Gross and Giles",
+    "Price": 750,
+    "Category": "Haircare"
+  },
+  {
+    "Name": "Thermostat Trimmer",
+    "Brand": "Hester, Love and Lynch",
+    "Price": 206,
+    "Category": "Accessories (Bags, Hats, Belts)"
+  },
+  {
+    "Name": "Clean Iron Premium Air Wireless",
+    "Brand": "Shepherd, Greene and House",
+    "Price": 293,
+    "Category": "Beauty & Personal Care"
+  },
+  {
+    "Name": "Silent Webcam Webcam Treadmill Sense Portable Advanced",
+    "Brand": "George-Day",
+    "Price": 148,
+    "Category": "Makeup"
+  },
+  {
+    "Name": "Compact Thermostat Oven",
+    "Brand": "Hull Inc",
+    "Price": 685,
+    "Category": "Home & Kitchen"
+  },
+  {
+    "Name": "Automatic Blender",
+    "Brand": "Mahoney-Bryan",
+    "Price": 630,
+    "Category": "Home Decor"
+  },
+  {
+    "Name": "Rechargeable Webcam Dock Heater",
+    "Brand": "Kennedy-Gordon",
+    "Price": 800,
+    "Category": "Cycling"
+  },
+  {
+    "Name": "Clean Toaster Oven Air Touch",
+    "Brand": "Olsen-Sawyer",
+    "Price": 365,
+    "Category": "Kids' Clothing"
+  },
+  {
+    "Name": "Brush",
+    "Brand": "Lowe, Mosley and Rivera",
+    "Price": 273,
+    "Category": "Bedding & Bath"
+  },
+  {
+    "Name": "Rechargeable Brush Compact",
+    "Brand": "Castro-Mccarty",
+    "Price": 748,
+    "Category": "Automotive"
+  },
+  {
+    "Name": "Fast Heater Cooker Compact Silent",
+    "Brand": "Decker, Montes and Logan",
+    "Price": 367,
+    "Category": "Makeup"
+  },
+  {
+    "Name": "Mini Drone X Portable",
+    "Brand": "Whitney Group",
+    "Price": 352,
+    "Category": "Books & Stationery"
+  },
+  {
+    "Name": "Heater Keyboard",
+    "Brand": "Brooks and Sons",
+    "Price": 103,
+    "Category": "Office Supplies"
+  },
+  {
+    "Name": "Wireless Fan Thermostat Max Automatic Max",
+    "Brand": "Kaiser-Banks",
+    "Price": 423,
+    "Category": "Books & Stationery"
+  },
+  {
+    "Name": "Fast Keyboard",
+    "Brand": "Lewis Ltd",
+    "Price": 998,
+    "Category": "Camping & Hiking"
+  },
+  {
+    "Name": "Ultra Mixer Toaster Toaster Smart",
+    "Brand": "Galloway and Sons",
+    "Price": 342,
+    "Category": "Women's Clothing"
+  },
+  {
+    "Name": "Silent Speakerphone Scanner Monitor",
+    "Brand": "Cowan Inc",
+    "Price": 593,
+    "Category": "Fragrances"
+  },
+  {
+    "Name": "Fast Vacuum Cooler",
+    "Brand": "Blair-Russell",
+    "Price": 307,
+    "Category": "Sports & Outdoors"
+  },
+  {
+    "Name": "Digital Trimmer",
+    "Brand": "Christian-Tanner",
+    "Price": 541,
+    "Category": "Laptops & Computers"
+  },
+  {
+    "Name": "Automatic Trimmer Sense",
+    "Brand": "Harrington-Valentine",
+    "Price": 405,
+    "Category": "Kitchen Appliances"
+  },
+  {
+    "Name": "Portable Scooter Wireless Digital",
+    "Brand": "Bauer Inc",
+    "Price": 519,
+    "Category": "Cameras & Accessories"
+  },
+  {
+    "Name": "Fridge Cooker",
+    "Brand": "Jackson Group",
+    "Price": 393,
+    "Category": "Furniture"
+  },
+  {
+    "Name": "Scanner",
+    "Brand": "Wang, Ayala and Bowen",
+    "Price": 472,
+    "Category": "Cleaning Supplies"
+  },
+  {
+    "Name": "Ultra Radio Radio",
+    "Brand": "Maldonado-Ritter",
+    "Price": 382,
+    "Category": "Haircare"
+  },
+  {
+    "Name": "Router",
+    "Brand": "Atkinson Inc",
+    "Price": 375,
+    "Category": "Laptops & Computers"
+  },
+  {
+    "Name": "Fast Thermostat Microphone Scooter",
+    "Brand": "Shea Ltd",
+    "Price": 289,
+    "Category": "Beauty & Personal Care"
+  },
+  {
+    "Name": "Eco Heater Toaster Stove Silent Sense",
+    "Brand": "West Ltd",
+    "Price": 232,
+    "Category": "Cleaning Supplies"
+  },
+  {
+    "Name": "Clean Blender Scale Lite",
+    "Brand": "Bell, Gamble and Barrett",
+    "Price": 241,
+    "Category": "Camping & Hiking"
+  }
+]
